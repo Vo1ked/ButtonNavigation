@@ -1,0 +1,14 @@
+{
+  "name": "com.Vo1ked.ButtonNavigation",
+  "version": "0.0.1",
+  "displayName": "Button Navigation",
+  "description": "tools for navigation by keyboard or other button type input",
+  "unity": "2019.4",
+  "dependencies": {
+    "com.unity.inputsystem": "1.4.4" 
+  },
+  "author": {
+    "name": "Volodymyr Sannikov",
+    "email": "Volked18@gmail.com"
+  }
+}
